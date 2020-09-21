@@ -28,9 +28,9 @@ C++ Version
 
 ----------------------
 
- Owner:
- Naveen Kummari
- Linkedin: linkedin.com/in/naveenx
- e-mail: nkummari22@gmail.com
+ Owner:   
+ Naveen Kummari | 
+ Linkedin: linkedin.com/in/naveenx | 
+ e-mail: nkummari22@gmail.com 
 
 
