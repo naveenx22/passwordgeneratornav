@@ -1,0 +1,15 @@
+{
+  "name": "passwordgenerator2",
+  "version": "1.0.0",
+  "description": "Password Generator 2  in Javascript",
+  "main": "naveen.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "naveek",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1"
+  }
+}

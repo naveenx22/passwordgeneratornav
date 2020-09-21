@@ -1,0 +1,90 @@
+@import url('https://fonts.googleapis.com/css2?family=Changa&family=Lobster+Two&family=Neucha&family=Piedra&family=Special+Elite&family=Syne&display=swap');
+
+
+body{
+    font-family: 'Lobster Two', sans-serif;
+    background-color: #3B3B98;
+	color: #fff;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 10px;
+
+}
+h1 {
+	margin: 10px 0 20px;
+
+
+}
+.container {
+	background-color: #23235B;
+	box-shadow: 0px 2px 10px rgba(255, 255, 255, 0.2);
+	padding: 20px;
+	width: 550px;
+	max-width: 100%;
+}
+
+.option {
+	display: flex;
+	justify-content: space-between;
+	margin: 15px 0px;
+}
+
+.btn {
+    border: none;
+	background-color: #3B3B98;
+}
+
+
+.outputbox{
+	background-color: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    height: 50px;
+    letter-spacing: 2px;
+    }
+
+.outputbox span{
+padding-left: 70px;
+padding-top: 10px;
+}    
+
+a{
+    color: hotpink;
+}
+a i{
+    color: lawngreen;
+}
+
+.containericons{
+    display: flex;
+    flex-direction: row;
+}
+
+
+.fa-clipboard{
+    width: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
