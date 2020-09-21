@@ -3,7 +3,11 @@ const app = express();
 
 
 // to access css and js files
-app.use(express.static(__dirname+'/public'))
+
+var path = require('path')
+
+process.env.PWD = process.cwd();
+app.use(express.static(path.join(process.env.PWD, 'public')));
 
 // homepage get
 app.get("/" , function( req , res ){
