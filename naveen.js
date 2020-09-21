@@ -3,7 +3,7 @@ const app = express();
 
 
 // to access css and js files
-app.use(express.static('public'))
+app.use(express.static(__dirname+'/public'))
 
 // homepage get
 app.get("/" , function( req , res ){
