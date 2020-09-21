@@ -11,7 +11,7 @@ app.use(express.static(path.join(process.env.PWD, 'public')));
 
 // homepage get
 app.get("/" , function( req , res ){
-    res.sendFile(__dirname + '/index.html');
+    res.sendFile('index.html');
 });
 
 
