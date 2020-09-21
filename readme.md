@@ -17,7 +17,7 @@ JS Version:
    goto : http://passwordgeneratornav.herokuapp.com/
  
 C++ Version
- 1. Open the PasswordGen.exe
+ 1. Open the PasswordGen.exe   (goto Same in C++ Implementation Folder)
  2. enter desirable length
  3. exit the program if u get the "done" message
  4. You will find your new password readied in password.txt file.
