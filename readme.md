@@ -2,8 +2,7 @@
 
 Hello.
 
-This is a Simple Password Generator made with c++.
-
+This is a Simple Password Generator made with c++. but later made in Js for GUI and to use Nodejs Runtime.
 It is a powerful password generator that generates a password that includes
 1. Uppercase Letters
 2. Lowercase Letters
